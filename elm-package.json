@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "summary": "experimental project for elm-lang",
+    "repository": "https://github.com/tshm/ElmCRUDSample.git",
+    "license": "MIT",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "2.0.0 <= v < 3.0.0",
+        "evancz/elm-html": "2.0.0 < v <= 3.0.0"
+    },
+    "elm-version": "0.15.0 <= v < 0.16.0"
+}
